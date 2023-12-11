@@ -1,0 +1,5 @@
+numpy
+opencv-contrib-python
+gymnasium
+gymnasium[box2d]
+tensorflow==2.9.2
